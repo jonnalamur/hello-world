@@ -1,2 +1,5 @@
 # hello-world
-Starting of  a new
+
+Hi all,
+
+Eswar here ...stepped in to learn new things
